@@ -1,4 +1,4 @@
-## Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
+## Spring Boot, Postges, JPA, Hibernate Rest API Tutorial
 
 Restful CRUD API to maintain movies and actors relationship using Spring Boot, Mysql, JPA and Hibernate.
 
